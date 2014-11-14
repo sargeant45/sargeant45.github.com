@@ -1,19 +1,15 @@
 ---
 layout: post
-title: "Learn to Code for Free"
-tags: code
+title: "Inbox by Gmail - First Impressions"
+tags: inbox
 ---
 
-One of my favorite people On YouTube is Barnacles Nerdgasm. He's a great dude and loves to help out with charity. He 3D prints, unboxes, and is just flat out amazing.
+I recently recieved an invite to Inbox, the new app for Gmail "by Gmail".
+At first glance, this is what you may see:
+![Screenshot](http://i.imgur.com/Qymy5zG.jpg)
 
-**He also does C# tutorials.** Now, C# is a pretty good beginner programming language, and is very similar to JavaScript, the language of the Web. So, as the programming tip of the day, go check out Barnacules' Codegasm videos. Here is a link to the first episode on the playlist:
+So Inbox is basically the "new" Gmail app. The best way to describe it is every email app that has showed up as important on the App Store. It's Boxer, Mailbox, and others all smashed up into one mail app. And it's cool. Inbox allows you to create Google now card-like "bundles" for emails that do just that: Bundle things together.
 
-[#Codegasm Series](http://www.youtube.com/playlist?list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n)
+**For instance,** say I want all of my Twitter notification emails in a bundle inside my Inbox. Well, I set it up so all of the emails coming from Twitter are automatically put inside that bundle.
 
-<hr>
-
-EDIT:
-
-Here is the amazing embed link:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n" frameborder="0" allowfullscreen></iframe>
+That's just a taster, so I'll see you again when I have used Inbox for a while with the full review.
