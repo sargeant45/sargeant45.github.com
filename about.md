@@ -1,30 +1,62 @@
 ---
 layout: page
-title: About
+title: Projects
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I have a couple of projects.
 
-There are currently two themes built on Poole:
+## EssayMaker ONE
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### The essay organizer that works for you.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**EssayMaker is a project that has culminated over the past 6 years.**
 
-## Setup
+It is a graphic organizer that instantly turns your ideas into a final product.
 
-Some fun facts about the setup of this project include:
+#### Try It
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+[Website](http://sargeant45.github.io/EssayMaker/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+[Web Version](http://sargeant45.github.io/EssayMaker/form.html)
 
-Thanks for reading!
+[Github Project Page](https://github.com/sargeant45/EssayMaker)
+
+### Screenshots
+
+![Red Dark theme](http://i.imgur.com/5pTyb4n.png)
+
+![Ultra customizable! Fonts, tabs, and themes, and colors.](http://i.imgur.com/EilSo5y.png)
+
+![Web version](http://i.imgur.com/teRZfVp.png)
+
+![Red light theme](http://i.imgur.com/swSBEEN.png)
+
+## CriticalResponseMaker
+
+### A 7th grade lifesaver. [Complete]
+
+I'm in 7th grade and one of the projects we do every week is the Weekly Challenge. This really doesn't apply to any other people but if you are a teacher and want to use this then cool, shoot me an email and I'd love to give it to you.
+
+Here are the links:
+
+[Web and Downloadable version on the website:](http://sargeant45.github.io/criticalresponsemaker/)
+
+[Github Project Page](https://github.com/sargeant45/criticalresponsemaker)
+
+## TheGame
+
+### This game isn't really a game, but a box. [Complete]
+
+This "project" is really just a test. I wanted to see how much I could do in C# with the internet's knowledge only. This was the unlikely result.
+
+Go try it:
+
+[Website with Download](http://sargeant45.github.io/TheGame/)
+
+[Github Project Page](https://github.com/sargeant45/TheGame)
