@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            TheBlog
+tagline:          'Blogger/Programmer/Videographer/Editor/12-Year-Old/etc.'
+description:      'I make programs. I also make videos. I also make blog posts. I also do stuff. I also breathe air. I also got turned down by ReadWriteThink.'
+url:              http://sargeant45.github.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ethan Arterberry'
+  url:            http://twitter.com/EthanArterberry
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/sargeant45/EssayMaker
