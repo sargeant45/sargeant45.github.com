@@ -3,12 +3,6 @@ layout: page
 title: Projects
 ---
 
----
-layout: page
-title: Projects
-permalink: /projects/
----
-
 I have a couple of projects.
 
 ## EssayMaker ONE
