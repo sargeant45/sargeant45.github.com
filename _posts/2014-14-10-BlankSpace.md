@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Taylor Swift's Blank Space
+title: Review - Taylor Swift's Blank Space
 ---
 
 It wasn't very good.
