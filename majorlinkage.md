@@ -9,7 +9,7 @@ title: http://majorlinkage.com/gettehlinks
 
 First off, if you have any questions, [email me.](mailto:sargeant45productions@gmail.com)
 
-You can also ask me questions on ask.fm. [I'S PRE'Y COO](ask.fm/ethanarterberry)
+You can also ask me questions on ask.fm. [I'S PRE'Y COO](http://ask.fm/ethanarterberry)
 
 #### GITHUB
 [My blog repository.](https://github.com/sargeant45/sargeant45.github.com)
@@ -37,6 +37,6 @@ Just look at my profile for the rest. There's like a lot more.
 
 [Instagrammes](http://instagram.com/ethanarterberry)
 
-[Main YouTube channel](youtube.com/sargeant45)
+[Main YouTube channel](http://youtube.com/sargeant45)
 
 
