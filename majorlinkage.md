@@ -9,6 +9,8 @@ title: http://majorlinkage.com/gettehlinks
 
 First off, if you have any questions, [email me.](mailto:sargeant45productions@gmail.com)
 
+You can also ask me questions on ask.fm. [I'S PRE'Y COO](ask.fm/ethanarterberry)
+
 #### GITHUB
 [My blog repository.](https://github.com/sargeant45/sargeant45.github.com)
 
