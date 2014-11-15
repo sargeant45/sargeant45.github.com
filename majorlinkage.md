@@ -29,7 +29,7 @@ Just look at my profile for the rest. There's like a lot more.
 
 [My inactive tumblr.](http://ethansblogoffunimmaturity.tumblr.com/)
 
-[My sh$%^y Soundcloud.](https://soundcloud.com/sargeant45) OH MY GOD I'M SORRY HERE IS A BETTER ONE: [oh so help me god](https://soundcloud.com/sargeant45)
+[My sh$%^y Soundcloud.](https://soundcloud.com/sargeant45) OH MY GOD I'M SORRY HERE IS A BETTER ONE: [oh so help me god](https://soundcloud.com/audiosprite87)
 
 [Oh I almost forgot Google+](https://plus.google.com/u/0/+EthanArterberryisAwesome)
 
