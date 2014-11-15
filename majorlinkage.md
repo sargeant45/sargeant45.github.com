@@ -35,6 +35,6 @@ Just look at my profile for the rest. There's like a lot more.
 
 [Instagrammes](http://instagram.com/ethanarterberry)
 
-[Main YouTube channel](youtube.com/sargeant45
+[Main YouTube channel](youtube.com/sargeant45)
 
 
