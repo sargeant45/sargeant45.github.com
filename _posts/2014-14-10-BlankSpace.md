@@ -7,7 +7,7 @@ It wasn't very good.
 
 # THE END
 
-http://i.imgur.com/hxz2qvi.png?1
+![http://i.imgur.com/hxz2qvi.png?1]
 
 Here's the link if you want to destroy your earholes:
 
