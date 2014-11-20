@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Calzy/Stacks/Pick Review(s)
+title: WapleThings - Calzy Review
 ---
+
+### Welcome to WapleThings!
+### This coming week I will be reviewing all of the WapleStuff apps!
 
 I'm a nerd. I like numbers, I like charts, I like money, I like tracking everything.
 The 3 apps by [WapleStuff](http://waplestuff.com/) are some I've been using a lot. I take Algebra in school, and it requires a lot of calculation. For this reason, [Calzy](http://www.calzy.waplestuff.com/) is awesome. It is clean and uncomplicated, and does everything I need it to do.
