@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EssayMaker Update #1
+title: "EssayMaker Update #1"
 ---
 
 ## EssayMaker update!
