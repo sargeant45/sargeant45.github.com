@@ -4,7 +4,7 @@ title: "EssayMaker Update #1"
 ---
 
 ## EssayMaker update!
-This is a kind of unnecessary, but I was just going to talk about EssayMaker and the science documents that go with it.
+This is kind of unnecessary, but I was just going to talk about EssayMaker and the science documents that go with it.
 
 **If you aren't familiar with science fairs,** anything including humans for testing must have a document explaining certain things about the project that concern humans. I am having 30 students write an essay with my program, which seems harmless but still includes *humans.* I wrote that today.
 
